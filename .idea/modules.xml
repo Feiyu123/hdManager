@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FHADMINM.iml" filepath="$PROJECT_DIR$/FHADMINM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebRoot/plugins/ueditor/ueditor.iml" filepath="$PROJECT_DIR$/WebRoot/plugins/ueditor/ueditor.iml" />
+    </modules>
+  </component>
+</project>

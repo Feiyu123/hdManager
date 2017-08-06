@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/jsp/system/appuser/appuser_list.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/system/fhsms/fhsms_list.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/system/index/head.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/system/index/left.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/system/index/top.jsp=UTF-8
+encoding//WebRoot/WEB-INF/jsp/system/tools/twoDimensionCode.jsp=UTF-8
+encoding//resources/dbconfig.properties=UTF-8
+encoding//resources/dbfh.properties=UTF-8
+encoding//resources/redis.properties=UTF-8
+encoding/<project>=UTF-8
